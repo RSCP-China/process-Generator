@@ -1,0 +1,7 @@
+{
+  "name": "AI Process Chart Generator",
+  "description": "An interactive web application that uses AI to generate matrixed process flow charts from a text description or an uploaded image. Users can visualize roles, steps, and tasks in a clean, cartoon-style business chart.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
